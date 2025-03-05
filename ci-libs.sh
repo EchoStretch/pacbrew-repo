@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#!build
 
 PKGS=(sdk openlibm libcxx fast_float
       bzip2 zlib xz zstd libarchive libdeflate
